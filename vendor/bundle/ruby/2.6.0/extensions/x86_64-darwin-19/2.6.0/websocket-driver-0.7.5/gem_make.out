@@ -1,0 +1,15 @@
+current directory: /Users/sezax/env/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/sezax/.rvm/rubies/ruby-2.6.8/bin/ruby -I /Users/sezax/.rvm/rubies/ruby-2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211020-38070-12l7c0c.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sezax/env/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/sezax/env/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/sezax/env/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20211020-38070-6h6j3h
